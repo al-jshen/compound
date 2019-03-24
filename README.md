@@ -2,4 +2,4 @@
 
 Monte Carlo Simulation of Compound Interest with Volatility
 
-![Simulations Plot](simulations.png)
+![Simulations Plot](simulation.png)
